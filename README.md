@@ -45,7 +45,7 @@ You can load some of these datasets via [torcheeg datasets](https://torcheeg.rea
    **Labels:** Participant defines the emotion based on some criteria such as interesting, obvious, impressive, etc. (each score -3 to 3) 
    
 6. [EAV](https://github.com/nubcico/EAV) \
-   [Paper](https://www.nature.com/articles/s41597-024-03838-4) \
+   [Paper](https://www.nature.com/articles/s41597-024-03838-4) - EAV: EEG-Audio-Video Dataset for Emotion Recognition in Conversational Contexts (2024) \
    **Data:** 42 participants, 30 channels, 200 interactions \
    **Device:** 30 channels BrainAmp System (Brain Products) \
    **Recordings:** EEG, audio, video. EEG data was recorded at a rate of 500 Hz. Additionally, they applied a high-pass filter (0.5 Hz) and bandpass filter(50 Hz). Data is segmented into 20-second epochs. \
